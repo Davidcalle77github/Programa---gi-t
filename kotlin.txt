@@ -1,0 +1,7 @@
+Usuario@DAVID-CALLE MINGW64 ~/OneDrive/Escritorio/Programa---gi-t (main)
+$ git config user.name
+Juan Calle
+
+Usuario@DAVID-CALLE MINGW64 ~/OneDrive/Escritorio/Programa---gi-t (main)
+$ git config user.email
+Davidcalle77github@users.noreply.github.com
